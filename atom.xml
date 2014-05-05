@@ -4,7 +4,7 @@
   <title><![CDATA[test]]></title>
   <link href="http://imicy.github.io/atom.xml" rel="self"/>
   <link href="http://imicy.github.io/"/>
-  <updated>2014-05-05T11:22:27+08:00</updated>
+  <updated>2014-05-05T12:38:46+08:00</updated>
   <id>http://imicy.github.io/</id>
   <author>
     <name><![CDATA[imicy]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Qwerty]]></title>
+    <link href="http://imicy.github.io/blog/2014/05/05/qwerty/"/>
+    <updated>2014-05-05T12:37:38+08:00</updated>
+    <id>http://imicy.github.io/blog/2014/05/05/qwerty</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Test2]]></title>
+    <link href="http://imicy.github.io/blog/2014/05/05/test2/"/>
+    <updated>2014-05-05T11:32:52+08:00</updated>
+    <id>http://imicy.github.io/blog/2014/05/05/test2</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Q]]></title>
