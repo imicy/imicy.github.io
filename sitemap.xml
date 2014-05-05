@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://imicy.github.io/blog/2014/05/05/%E4%B8%AD%E6%96%87/</loc>
-        <lastmod>2014-05-05T11:18:59+08:00</lastmod>
-    </url>
-    <url>
         <loc>http://imicy.github.io/blog/2014/05/05/title/</loc>
         <lastmod>2014-05-05T10:15:49+08:00</lastmod>
     </url>
@@ -13,12 +9,16 @@
         <lastmod>2014-05-05T10:57:29+08:00</lastmod>
     </url>
     <url>
+        <loc>http://imicy.github.io/blog/2014/05/05/q/</loc>
+        <lastmod>2014-05-05T11:21:50+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://imicy.github.io/blog/archives/</loc>
-        <lastmod>2014-05-05T11:18:59+08:00</lastmod>
+        <lastmod>2014-05-05T11:21:50+08:00</lastmod>
     </url>
     <url>
         <loc>http://imicy.github.io/</loc>
-        <lastmod>2014-05-05T11:18:59+08:00</lastmod>
+        <lastmod>2014-05-05T11:21:50+08:00</lastmod>
     </url>
     <url>
         <loc>http://imicy.github.io/robots.txt</loc>
